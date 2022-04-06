@@ -1,0 +1,16 @@
+Package: gestore-sensori-web
+Version: 1.0
+Architecture: armhf
+Essential: no
+Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
+Installed-Size: 23140
+Depends: python3
+Filename: ./gestoresensoriweb-1.0_armhf.deb
+Size: 2916352
+MD5sum: 168747dc06d327b3761631a4e3ec5617
+SHA1: 4072e26015d1fc08b58ffb50d26523df93f7f208
+SHA256: ed9bf7a3a2af47248269ae3ea53554985aee6b504be64c97b099bef6d9c60114
+Priority: optional
+Description: Piattaforma web per la gestione delle centraline
+  Piattaforma web per la gestione delle centraline di RienergyGroup srl
+
