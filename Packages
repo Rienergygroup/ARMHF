@@ -4,12 +4,12 @@ Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 23140
-Depends: python3
+Depends: libpython3.9.so.1.0
 Filename: ./gestoresensoriweb-1.0_armhf.deb
-Size: 6961152
-MD5sum: 1d95a6974f4517c6c78bd9a5fcf11afe
-SHA1: 22d6820b5f14c15b3813e3cf095a63395a1c5699
-SHA256: 910a8712cd6038f2f1de4e3822e58a59cd349a5c1c881474e4fd5ca0453a6e27
+Size: 6961164
+MD5sum: e13021e6ca47ca6bed306ac70ff8e218
+SHA1: 3c60aed860dd953b76782d932178757841542aab
+SHA256: 15123a66341a20b1aee6bd762037ab245c00a8c87802f901b6bb7d7eb58f87aa
 Priority: optional
 Description: Piattaforma web per la gestione delle centraline
   Piattaforma web per la gestione delle centraline di RienergyGroup srl
