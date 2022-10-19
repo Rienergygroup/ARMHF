@@ -272,10 +272,10 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5600
 Depends: python3,libsystemd-dev,python3-distutils-extra,snap,snapd,net-tools,wpasupplicant,arp-scan
 Filename: ./itherm-1.0_armhf.deb
-Size: 17843484
-MD5sum: d6116c72377e59ff342377897843f4c5
-SHA1: 6868cd42ecc87d9dd275018741350e22dde182c6
-SHA256: 846e63ca94e29a0a9f47857d86014b007ad54b27ec126606b6cbd843443865e4
+Size: 17841828
+MD5sum: 1bc7220c2e7d5bc1c6131591cd8778fe
+SHA1: df77c2ee84c6f724cf39856c21ad0bf3379cbec8
+SHA256: cf06f126c41b097a4f0dc4b1567ac8d7192ba337ac63c727b5efdfaa245c756b
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
