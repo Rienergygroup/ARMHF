@@ -5,10 +5,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 17
 Filename: ./api_air_monitor-1.0_armhf.deb
-Size: 4376
-MD5sum: 7fe52d1dce14793344da8fef92dd2d5e
-SHA1: 622a95ccb7a2e2f10daa6104185a1f238ee4091e
-SHA256: 59f84ddc48eb128e5e8b97cccf875d9cb2d8ef4c74cc85e2a7bcb3250f255564
+Size: 4388
+MD5sum: 82be60966450296f14ec7ae268358fc1
+SHA1: d04498d8071ecbc5a3719e426de878f1d03fad40
+SHA256: 2f726bc9447a6c78cc60d3b3dd4bb690c1e7f5181b954fe8629c74e4cd718f78
 Priority: optional
 Description: Script di gestione del dispositivo api-air-monitor
 
@@ -33,10 +33,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./att_shelly_1-1.0_armhf.deb
-Size: 4776
-MD5sum: 820364a5cb5cfb720ef700d0c4c7e2ab
-SHA1: 4a5a34c55e5a79179559fe7088d5901bb34b34dd
-SHA256: d1e5320d9dc175cb1da756ef515726bc8d5226b43a39a572ff4e14ad6e61e11a
+Size: 2992
+MD5sum: 3854611a422f0d639c331dd95f2dd547
+SHA1: 5cb369e49a135cf77dd14de999c1c7e0762d6156
+SHA256: eaeda0477344332933854000ed8ba1b2a3c043040382ee99c43d010950ad45f8
 Priority: optional
 Description: Script di gestione del dispositivo att-shelly-1
 
@@ -47,10 +47,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./att_shelly_2-1.0_armhf.deb
-Size: 2956
-MD5sum: 97b27d78c328ef10bbf71dc2eaa25754
-SHA1: 9999363a7c6f1418a61eb176d880fcdfc0d7d981
-SHA256: 9e98692fc2c84596fa7d042229ec55bcc87c99c3af2e8d1cc7f473edf968d673
+Size: 3024
+MD5sum: 8b20a4a02ad983ec27b595620e841810
+SHA1: b4694a80f828e97171d3a30d662a978663501909
+SHA256: ebdd9415ff48220eccd649a55ef08568c545d3a6264e4a5f8d7889565ebb6ae4
 Priority: optional
 Description: Script di gestione del dispositivo att-shelly-2
 
@@ -59,12 +59,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 6
+Installed-Size: 7
 Filename: ./att_shelly_plug-1.0_armhf.deb
-Size: 5012
-MD5sum: eba85ad10d791392aa7705c542cfe629
-SHA1: 7576f13a64cc5b5baf5bd8a298361f21113be92a
-SHA256: 9eb8307e38f13a4e75480f9de98c8ec722c9d897f6c391c3924f27346dcb4b62
+Size: 3100
+MD5sum: 777a1c6ed8a4431a6c26155bb217bc63
+SHA1: a408c658ba43c8805fd9ab9f495127365ab030fb
+SHA256: a16d95911338923b19162539c33883ff776fc623eef34adcad42fb8062aa8d5d
 Priority: optional
 Description: Script di gestione del dispositivo att-shelly-plug
 
@@ -75,10 +75,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 7
 Filename: ./att_shelly_pm1-1.0_armhf.deb
-Size: 5084
-MD5sum: 1d8c9d23f26f7afa7b008522fe1cd5c0
-SHA1: 55d1234f92ed25f2073d88fed80972e679b58ec4
-SHA256: db6dfdcc2b8e0bef6ac69b80515344c2d1d2425b1e5d705f20ef6d9f1f8879e2
+Size: 3116
+MD5sum: 881da38e5da53a30bb6714a0d5884e80
+SHA1: f111352365a9958d6112f573921e94d07b8efc29
+SHA256: bb85b38fbcb0532a36366f26383207840a7a11f40174f1a4456f1e2de45e2b07
 Priority: optional
 Description: Script di gestione del dispositivo att-shelly-pm1
 
@@ -89,10 +89,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 4
 Filename: ./att_sonoff_diy-1.0_armhf.deb
-Size: 2616
-MD5sum: 147931739e40bbf939be8025fd7197d6
-SHA1: 5dac5dde92734087415129340964905afef9189f
-SHA256: 4134186bc240580bd9c1e1fa6a7b2c185593644276c3fdd490ad28e978b83234
+Size: 2624
+MD5sum: d60e84512018b99ebb33f8a1ac526a71
+SHA1: e9342c3ddfed0cd0ec2af21e764980a4df07781a
+SHA256: 25eba9de5cbbfdf7228fbbdb7509b8967626aa6a730d762fb9dd89d729e2e0c6
 Priority: optional
 Description: Script di gestione del dispositivo att-sonoff-diy
 
@@ -101,12 +101,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 4
+Installed-Size: 5
 Filename: ./ble_blue_coin_t-1.0_armhf.deb
-Size: 2488
-MD5sum: 854b80b8571228fdef0fda64eba55840
-SHA1: 8951dc7c69358352f791bc14002c617ad250a807
-SHA256: 819f76707e1371777d275afd2ff519d3b92511d81e615008104639403652eb99
+Size: 2696
+MD5sum: 99b87e300f0666ca305edcfdd41e2879
+SHA1: 8f80db813b34414261d58401c2b5b28c1ed30b93
+SHA256: bdf2e3c05542eba476477605a9033b95361bc23f98bfa3a1c398bdb329e6794f
 Priority: optional
 Description: Script di gestione del dispositivo ble-blue-coin-t
 
@@ -115,12 +115,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 6
+Installed-Size: 7
 Filename: ./ble_efento-1.0_armhf.deb
-Size: 2640
-MD5sum: ca204ba54238947e2a94ae5e24417da8
-SHA1: fc8a695998db0f6536e4f200153ad404bd23e75b
-SHA256: b6f6c1c503484d0a52a0ab611854d28a80ca589197c477af32382006ca8fa049
+Size: 2840
+MD5sum: 6683c55f410757722ae597761612f355
+SHA1: c04d485d99f403fa1ee681280912dab4cb80ac9f
+SHA256: 4ae3a97ee44081d737069c6a4e087df614731de85334db9711623a69ce17af03
 Priority: optional
 Description: Script di gestione del dispositivo ble-efento
 
@@ -129,12 +129,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 5
+Installed-Size: 6
 Filename: ./ble_mijia_v1-1.0_armhf.deb
-Size: 2620
-MD5sum: cbc646bd62b6348a7245a9163d4e6915
-SHA1: 3e68363c8a608d0a9d44f3040e012d2dd10d2c7e
-SHA256: e686f97b77760411433cc3976ba75e2727f94f66d8af5f807c07b78ecaabeb3a
+Size: 2868
+MD5sum: 33dec782741fe8695fb4bc7a698b9d47
+SHA1: a0d4be0f5fecaa6e476533df7eaa810211499c4a
+SHA256: f2a89d2051e76d24ced0de7575407a2048a2ff379af3501895481d8a2371a235
 Priority: optional
 Description: Script di gestione del dispositivo ble-mijia-v1
 
@@ -146,9 +146,9 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./ble_mijia_v2-1.0_armhf.deb
 Size: 2908
-MD5sum: 71f5c5017d892b2aafd7cf06151663f4
-SHA1: 6e52ac3687a6a76fb43a9ab84cc50aadb234feb3
-SHA256: 9265893bf24ee1c3af41e9a68f6a0c7a8687e2b3c509e880e290fc861dd3e9c1
+MD5sum: 0d50452af699e57db96f64246aa31cc2
+SHA1: 27a62d1a821d099ad2027129552f89c30e0064a7
+SHA256: cb6a8514e505997444b9e72d0dcc29ee986b41a3acab25a52b2b6171d1127e64
 Priority: optional
 Description: Script di gestione del dispositivo ble-mijia-v2
 
@@ -157,12 +157,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 5
+Installed-Size: 6
 Filename: ./ble_qingping_th_cgg1-1.0_armhf.deb
-Size: 4368
-MD5sum: 7355f2fa56e63de3236498febd2fdd8e
-SHA1: 5d72394e90592446c837e1e88161b59f903b27e3
-SHA256: dbbed440005fd750c447b6c35faf2f074f3ddf5d9495856d2bead32ed257adb2
+Size: 2944
+MD5sum: 86b945d2822afea4d0392180b1c5df88
+SHA1: f398dcf2d9854a1dd8fa4dfd2e684a8a772fb093
+SHA256: 346172dc9c3876145335e48e3fc768e983452b48340b57f32b19ba3fb0e61973
 Priority: optional
 Description: Script di gestione del dispositivo ble-qingping-th-cgg1
 
@@ -173,10 +173,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 8
 Filename: ./ccu3_hmip_etrv_valvola-1.0_armhf.deb
-Size: 5324
-MD5sum: 939e3c2a63d96cc7f71a2d8cd9da2566
-SHA1: fa19ce507bdef537b12ec7d1937377eacb0ce836
-SHA256: f072df42c9370ef9564fa33b7b5348e16383791a26fb71115c3751eb9fce4942
+Size: 3136
+MD5sum: 3d4f380308d2919a9cc5b70627e6fbd1
+SHA1: 8acf07f4915f798360ca5975b0d94b924057cdf9
+SHA256: 7f2b9369d18470102d4b2c3f16411346449710e5ec6bbfe3e949cda8ca2dda9b
 Priority: optional
 Description: Script di gestione del dispositivo ccu3-hmip-etrv-valvola
 
@@ -187,10 +187,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5
 Filename: ./ccu3_hmip_falmot_c12-1.0_armhf.deb
-Size: 4320
-MD5sum: f5ee4d0ba1d3e6c323bf7e0cfed91b87
-SHA1: 94fc38431df8e2991560cb6a7b04ae59746f4134
-SHA256: fbc145854af85d19bc5e23947d97c04204e2b41f51081d6b1a0f78b50322cf2b
+Size: 2660
+MD5sum: 76afe1301c737f76055af7f915cb4e20
+SHA1: ab64c8c060b7bcbe4e7ad7b50662f06f47fcd0d2
+SHA256: afd46b169b109457b1e9c46cc067c6e16bff651c08dfd6328d118b16a5d05d3f
 Priority: optional
 Description: Script di gestione del dispositivo ccu3-hmip-falmot-c12
 
@@ -199,12 +199,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 11
+Installed-Size: 10
 Filename: ./ccu3_hmip_fsm16-1.0_armhf.deb
-Size: 5336
-MD5sum: e1d0bbc80e5f9f80d736e561093b6206
-SHA1: 75ffbbf1cc45beff43c4a94410b61f0313e0775b
-SHA256: 8d20563dfd8a40fd477366f194a255a36093c11cd35e42af25917ccccf570f2e
+Size: 3164
+MD5sum: 1d3b481836e9121125606e85e1287d18
+SHA1: 2e75d96c6a3e86a38dd5edbad926225a2cb4ea44
+SHA256: 4c37f39db5982811d198edf29090fafd7694e42981165d6cee4893021f23bb13
 Priority: optional
 Description: Script di gestione del dispositivo ccu3-hmip-fsm16
 
@@ -213,12 +213,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 9
+Installed-Size: 10
 Filename: ./ccu3_hmip_sthd-1.0_armhf.deb
-Size: 5452
-MD5sum: 4f962951e937b5ce1489eed901d0b151
-SHA1: 71be5972c04624edace2e412f33c4685e94bf98d
-SHA256: ab5e4442e2d867300abe939d6df154156cce55730f6ef26de3808635e94874ff
+Size: 3200
+MD5sum: bd1e4365664bece1b3c33b413ab514e6
+SHA1: d8eae355831a375da3baf8cfab2ddc70c46a4921
+SHA256: 71204dcdb718a293afe9c63540e5e402bfcf0abb0a9271adacfe2095f6bb0e14
 Priority: optional
 Description: Script di gestione del dispositivo ccu3-hmip-sthd
 
@@ -227,12 +227,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 5
+Installed-Size: 6
 Filename: ./ccu3_hmip_stho-1.0_armhf.deb
-Size: 4344
-MD5sum: c8d65b9f4910893bbf35fa83bc4617a8
-SHA1: c8a1474d907a68ef7308360c38e7cfe13c1b23f9
-SHA256: caf5fe22fe33058f26e061d96e2b54f7e9d473669b3baa08dc61f2d929f06e9a
+Size: 2700
+MD5sum: 3f3d4bfaf518873bf27258281f8e6b7c
+SHA1: 450ded6e8f25f93c96f4914b75e40b16987d31bc
+SHA256: bff31cb7b52d866bb84ad5286ea58a2b1b2baaebc64f68ab28f34a5fd8c481f6
 Priority: optional
 Description: Script di gestione del dispositivo ccu3-hmip-stho
 
@@ -243,10 +243,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./ccu3_hmip_swdo-1.0_armhf.deb
-Size: 4448
-MD5sum: b8b85a403afba0ebe985ca260e542a94
-SHA1: 8ae48a0bde7072c2939801aa427f9e6cb5a1a0ab
-SHA256: 00b6a76ec358c725d58af8a647b99770786363d7eb2cd052cd77a6760e7d81dd
+Size: 2792
+MD5sum: 82e860e5fce2311e771e02aa2ca18030
+SHA1: 51202ae0bd47629acb5c1891eabd38c4b9d84e4a
+SHA256: ef08074e43072c26ac95910721e59ac5721558f38225d71dd62d74ce892c17b1
 Priority: optional
 Description: Script di gestione del dispositivo ccu3-hmip-swdo
 
@@ -255,12 +255,12 @@ Version: 1.0
 Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
-Installed-Size: 9
+Installed-Size: 10
 Filename: ./ccu3_hmip_wth_2-1.0_armhf.deb
-Size: 5464
-MD5sum: d1dda25820ef4b0133dab58d7cf9db60
-SHA1: 26c24c86acb95f546a1968b058dbb5e05850a703
-SHA256: 970ab9f9f0d1295537c3d384da6846b6ea34ff38cac6ea18efa6fdbdf2100e45
+Size: 3228
+MD5sum: 89e9e0cd6ab4e722260567a416b1ab12
+SHA1: e2d7e908ea581bb49edb58358d8acbbb2912483f
+SHA256: 724e3daa7542489bbfeef951dadf0860de6df78eb7a96caed1d3cb29c75fe863
 Priority: optional
 Description: Script di gestione del dispositivo ccu3-hmip-wth-2
 
@@ -272,10 +272,10 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5600
 Depends: python3,libsystemd-dev,python3-distutils-extra,snap,snapd,net-tools,wpasupplicant,arp-scan
 Filename: ./itherm-1.0_armhf.deb
-Size: 17841004
-MD5sum: dac1f1657830fdec6f74874b9e39622a
-SHA1: 4c0a34f4e3e10937a6e803fc2d89c1c588f652b3
-SHA256: d5ff2ba08ff86b9d9d4695fd66b5c7a7d703ae2f7c3d19c0ac1776fe1bd59f5f
+Size: 17843484
+MD5sum: d6116c72377e59ff342377897843f4c5
+SHA1: 6868cd42ecc87d9dd275018741350e22dde182c6
+SHA256: 846e63ca94e29a0a9f47857d86014b007ad54b27ec126606b6cbd843443865e4
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
