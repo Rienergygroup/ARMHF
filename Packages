@@ -160,9 +160,9 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./ble_qingping_th_cgg1-1.0_armhf.deb
 Size: 4840
-MD5sum: 966f5974a867b40b490f58d610910e5c
-SHA1: ceec97efddd3110869fb9e896e9f22dc28e567ef
-SHA256: 3d07bb3383d33658793ade8466421d613151db4839a06cb254ec64183cef4db4
+MD5sum: 6d63aebf513d80eb3a274255f0fae76b
+SHA1: 168fe10bc6cf0382b830c7e1a10cfc175ff84cb8
+SHA256: 1b94463b4eac456230d89375e811ed4dbe9108233b0101f97893c0790e8e2cd5
 Priority: optional
 Description: Script di gestione del dispositivo ble-qingping-th-cgg1
 
