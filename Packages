@@ -270,12 +270,12 @@ Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5600
-Depends: python3,libsystemd-dev,python3-distutils-extra,snap,snapd,net-tools,wpasupplicant,arp-scan
+Depends: net-tools,wpasupplicant,arp-scan
 Filename: ./itherm-1.0_armhf.deb
-Size: 21463344
-MD5sum: de164392a35f61e1c7d88db7a4379de6
-SHA1: 1726467c64ac77e001ef525f36f7c81776ac2725
-SHA256: c4a7d7c052f35a71aac6795dd5039dae89d1162a96f78676fe8784a4b6122fb9
+Size: 11558500
+MD5sum: 05ee24f869034b7decbe45f15f92c61a
+SHA1: 2ccd110b912dd66e8d36c52c1efac3dd66152a39
+SHA256: 978f26a5f86ffa39ab0e8814cede4182a46b556adc14c115dea19ce0a231ba5e
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
